@@ -1,0 +1,9 @@
+<batch>
+/ file="instructions_open_eyes.exp"
+/ file="demographics Data_1.exp"
+/ file="instructions_closed_eyes.exp"
+/ file="demographics Data_2.exp"
+/ file="instructions_opinion_survey.exp"
+/ file="opinion_survey.exp"
+/ file="end.exp"
+</batch>

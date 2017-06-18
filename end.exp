@@ -1,0 +1,17 @@
+
+<instruct>
+/ inputdevice = mouse
+/ lastlabel = "EXIT"
+/ windowsize = (66%, 66%)
+</instruct>
+
+<expt>
+/ preinstructions = (end)
+</expt>
+
+<htmlpage end>
+/ file = "end.html"
+</htmlpage>
+
+
+

@@ -1,0 +1,216 @@
+<instruct>
+/ inputdevice = mouse
+/ lastlabel = "Start"
+/ windowsize = (66%, 66%)
+</instruct>
+
+
+<htmlpage second>
+/ file = "second.html"
+</htmlpage>
+
+*********************************************************************************************************************************************************************************
+<slider face>
+/ caption = "The exact contour of face, head, shoulders and body.                                                                                                                                                           "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+<slider headpose>
+/ caption = "Characteristic poses of head, attitudes of body etc.                                                                                                                                                             "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+<slider carriage>
+/ caption = "The precise carriage, length of step, etc. in walking.                                                                                                                                                             "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+<slider clothe>
+/ caption = "The different colours worn in some familiar clothes.                                                                                                                                                             "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+**********************************************************************************************************************************************************************************
+<slider hazysky>
+/ caption = "The sun is rising above the horizon into a hazy sky.                                                                                                                                                             "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+<slider clearsky>
+/ caption = "The sky clears and surrounds the sun with blueness.                                                                                                                                                             "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+<slider clouds>
+/ caption = "Clouds. A storm blows up, with flashes of lightening.                                                                                                                                                             "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+<slider rainbow>
+/ caption = "A rainbow appears.                                                                                                                                                                                                    "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+**********************************************************************************************************************************************************************************
+<slider appearance>
+/ caption = "The overall appearance of the shop from the opposite side of the road.                                                                                                                                                                                                       "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+<slider window_>
+/ caption = "A window display including colours, shape and details of individual items for sale.                                                                                                                                                                                                    "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+<slider entrance>
+/ caption = "You are near the entrance. The colour, shape an details of the door.                                                                                                                                                                                                    "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+<slider counter_>
+/ caption = "You enter the shop and go to the counter. The counter assistant serves you. Money changes hands.                                                                                                                                                                                                     "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+**********************************************************************************************************************************************************************************
+<slider landscape>
+/ caption = "The contours of the landscape.                                                                                                                                                                                                                     "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+<slider trees>
+/ caption = "The colour and shape of the trees.                                                                                                                                                                                                     "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+<slider lake>
+/ caption = "The colour and shape of the lake.                                                                                                                                                                                                                                                 "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+<slider wind>
+/ caption = "A strong wind blows on the trees and on the lake causing waves.                                                                                                                                                                                                     "
+/ labels = ("Perfectly clear & vivid~nas if I was actually seeing it", "Reasonably clear~nand vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all", "")
+/ range = (1, 6)
+/ defaultresponse = 6
+/ slidersize = (60%, 5%)
+/ validresponse = ("1","2","3","4","5")
+/ showtooltips = false
+</slider>
+
+
+**********************************************************************************************************************************************************************************
+<picture eyes_closed>
+/ items = ("eyes_closed.bmp")
+/ position = (6,8)
+</picture>
+
+
+<surveypage demographics1>
+/ stimulusframes = [1=eyes_closed]
+/ caption = "In answering items 1 to 4, think of some relative or friend whom you frequently see and consider carefully the picture that comes before your mind’s eye."
+/ fontstyle = ("Verdana", -16, true, false, false, false, 5, 0)
+/ questions = [1=face; 2=headpose; 3= carriage; 4= clothe] 
+</surveypage>
+
+<surveypage demographics2>
+/ stimulusframes = [1=eyes_closed]
+/ caption = "Imagine the items mentioned in the following questions and rate the vividness of your imagination"
+/ fontstyle = ("Verdana", -16, true, false, false, false, 5, 0)
+/ questions = [1=hazysky; 2=clearsky; 3= clouds; 4= rainbow] 
+</surveypage>
+
+<surveypage demographics3>
+/ stimulusframes = [1=eyes_closed]
+/ caption = "In answering items 9 to 12, think of the front of a shop which you often go to. Consider the picture that comes before your mind’s eye. "
+/ fontstyle = ("Verdana", -16, true, false, false, false, 5, 0)
+/ questions = [1=appearance; 2=window_; 3= entrance; 4= counter_] 
+</surveypage>
+
+<surveypage demographics4>
+/ stimulusframes = [1=eyes_closed]
+/ caption = "In answering items 13 to 16, think of a country scene which involves trees, mountains and a lake. "
+/ fontstyle = ("Verdana", -16, true, false, false, false, 5, 0)
+/ questions = [1=landscape; 2=trees; 3= lake; 4= wind] 
+</surveypage>
+
+
+<survey demographics>
+/ pages = [ 1=demographics1;2=demographics2;3=demographics3; 4=demographics4]
+/ responsefontstyle = ("Verdana", -12, false, false, false, false, 5, 0)
+/ itemfontstyle = ("Verdana", -13, false, false, false, false, 5, 0)
+/ itemspacing = 5%
+/ showpagenumbers = false
+</survey>

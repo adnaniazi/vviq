@@ -1,0 +1,14 @@
+
+<instruct>
+/ inputdevice = mouse
+/ lastlabel = "NEXT"
+/ windowsize = (66%, 66%)
+</instruct>
+
+<expt>
+/ preinstructions = (end)
+</expt>
+
+<htmlpage end>
+/ file = "instructions_open_eyes.html"
+</htmlpage>

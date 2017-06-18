@@ -1,0 +1,81 @@
+<site version="3.0"><css/><components/><page id="p2902539" pageindex="0" name="index" pp="0" cp="0"><body bgoutput="" bgsoutput=""><Component type="2" id="text1" zorder="0" filename="text2928559" width="347" height="171" html="" left="438" top="23" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0" selected="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;Great&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;You are done !&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;We appreciate your partcipation&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;Adnan Niazi, &lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;Marcel van Gerven, &lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;Philip van den Broek, Peter Desain, Mannes Poel&lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;Great&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;You are done !&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;We appreciate your partcipation&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;Adnan Niazi, &lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;Marcel van Gerven, &lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;Philip van den Broek, Peter Desain, Mannes Poel&lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp+AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwFU3R5bGULBmZzQm9sZAhmc0l0
+YWxpYwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwF
+U3R5bGULBmZzQm9sZAAAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxl
+ZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50
+BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxp
+Z25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRh
+YmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdh
+bnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgNiAxIDAgMCAw
+DQpHcmVhdA0KWW91IGFyZSBkb25lICENCg0KV2UgYXBwcmVjaWF0ZSB5b3VyIHBhcnRjaXBhdGlv
+bg0KDQoNCjUgMyAxIDAgMCAwDQpBZG5hbiBOaWF6aSwgDQpNYXJjZWwgdmFuIEdlcnZlbiwgDQpQ
+aGlsaXAgdmFuIGRlbiBCcm9laywgUGV0ZXIgRGVzYWluLCBNYW5uZXMgUG9lbA0KMyAxIDEgMCAw
+IDANCg0KNCAyIDEgMCAwIDANCg0KDQozIDMgMSAwIDAgMA0KIA0KDQoNCg==
+</rvf></Component><Component type="3" id="image3" zorder="1" filename="image22473426" left="55" top="26" width="326" height="74" originwidth="326" originheight="74" src="D:\project\Subject Briefing stimuli V3\Questionairre\Sub-01 High BPM\resources\logo_nl-NL.gif" previewfile="D:\project\Subject Briefing stimuli V3\Questionairre\Sub-01 High BPM\resources\logo_nl-NL.gif" thumbname="thumb23980832" resamplename="img23980832" exportfilename="images/logo_nl-NL.gif" selected="1"/><Component type="3" id="image2" zorder="2" filename="image22713402" width="240" height="36" originwidth="528" originheight="79" src="C:\Users\adnan\Documents\Web Page Maker\Import\paste.jpg" previewfile="C:\Users\adnan\Documents\Web Page Maker\Import\paste.jpg" left="55" top="128" thumbname="thumb23980863" resamplename="img23980863" exportfilename="images/paste.jpg" selected="1"/><Component type="3" id="image4" zorder="3" filename="image22730515" width="124" height="29" originwidth="261" originheight="60" src="C:\Users\adnan\Documents\Web Page Maker\Import\paste1.jpg" previewfile="C:\Users\adnan\Documents\Web Page Maker\Import\paste1.jpg" left="101" top="171" thumbname="thumb23980863" resamplename="img23980863" exportfilename="images/paste1.jpg" selected="1"/><Component type="3" id="image5" zorder="4" filename="image22743260" width="71" height="77" originwidth="147" originheight="159" src="C:\Users\adnan\Documents\Web Page Maker\Import\paste2.jpg" previewfile="C:\Users\adnan\Documents\Web Page Maker\Import\paste2.jpg" left="298" top="128" thumbname="thumb23980879" resamplename="img23980879" exportfilename="images/paste2.jpg" selected="1"/><Component type="3" id="image1" zorder="5" filename="image23416264" width="748" height="191" originwidth="642" originheight="185" src="C:\Users\adnan\Documents\Web Page Maker\Import\paste5.jpg" previewfile="C:\Users\adnan\Documents\Web Page Maker\Import\paste5.jpg" left="37" top="208" thumbname="thumb23980894" resamplename="img23980894" exportfilename="images/paste5.jpg" selected="1"/><Component type="2" id="text2" zorder="6" filename="text23568740" width="394" height="90" html="" left="389" top="341" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0" selected="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;B&gt;Real time decoding of visual and imagined percepts&lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:11px;"&gt;&lt;I&gt;For any queries or comments contact&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:11px;"&gt;Adnan Niazi, Room B.00.74, Spinozagebouw Laag, Montessorilaan 3, &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:11px;"&gt;Radboud University, Nijmegen (Email: adnaniazi@gmail.com)&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;B&gt;Real time decoding of visual and imagined percepts&lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws8"&gt;&lt;I&gt;For any queries or comments contact&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws8"&gt;Adnan Niazi, Room B.00.74, Spinozagebouw Laag, Montessorilaan 3, &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws8"&gt;Radboud University, Nijmegen (Email: adnaniazi@gmail.com)&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpvAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbAVTdHlsZQsGZnNCb2xkAAABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAggFU3R5bGULCGZzSXRhbGljAAAB
+CVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAggA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdo
+dAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2
+cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJz
+DgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQpSZWFsIHRpbWUgZGVj
+b2Rpbmcgb2YgdmlzdWFsIGFuZCBpbWFnaW5lZCBwZXJjZXB0cw0KNCAxIDEgMCAwIDANCkZvciBh
+bnkgcXVlcmllcyBvciBjb21tZW50cyBjb250YWN0DQo1IDIgMSAwIDAgMA0KQWRuYW4gTmlhemks
+IFJvb20gQi4wMC43NCwgU3Bpbm96YWdlYm91dyBMYWFnLCBNb250ZXNzb3JpbGFhbiAzLCANClJh
+ZGJvdWQgVW5pdmVyc2l0eSwgTmlqbWVnZW4gKEVtYWlsOiBhZG5hbmlhemlAZ21haWwuY29tKQ0K
+</rvf></Component></body></page></site>

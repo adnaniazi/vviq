@@ -1,0 +1,137 @@
+<site version="3.0"><css/><components/><page id="p2902539" pageindex="0" name="index" pp="0" cp="0"><body bgoutput="" bgsoutput=""><Component type="2" id="text1" zorder="0" filename="text2928559" width="775" height="54" html="" left="10" top="23" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;The enitre questionairre will take about 10 minutes of your life. &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000080" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;B&gt;Please do not rush through the questionairre&lt;/B&gt;&lt;/font&gt;&lt;font color="#000080" style="font-size:16px;"&gt;&lt;B&gt;.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000080" style="font-size:11px;"&gt;&lt;B&gt;(if you try to rush, the software will automatically detect it and will slow down the rate at which the questionairre progresses)&lt;/B&gt;&lt;/font&gt;&lt;font color="#000080" style="font-size:9px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" style="font-size:9px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;The enitre questionairre will take about 10 minutes of your life. &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000080" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;B&gt;Please do not rush through the questionairre&lt;/B&gt;&lt;/font&gt;&lt;font color="#000080" class="ws12"&gt;&lt;B&gt;.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000080" class="ws8"&gt;&lt;B&gt;(if you try to rush, the software will automatically detect it and will slow down the rate at which the questionairre progresses)&lt;/B&gt;&lt;/font&gt;&lt;font color="#000080" class="ws7"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" class="ws7"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;B&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/B&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqxAwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwFU3R5bGULBmZzQm9sZAhmc0l0
+YWxpYwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwE
+U2l6ZQIMBVN0eWxlCwZmc0JvbGQABUNvbG9yBwVjbFJlZAABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAFQ29sb3IH
+B2NsQmxhY2sAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJp
+YWwEU2l6ZQIHBVN0eWxlCwZmc0JvbGQABUNvbG9yBwdjbEJsYWNrAAEJU3R5bGVOYW1lBgtOb3Jt
+YWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBUFyaWFsBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVD
+b2xvcgcGY2xOYXZ5CUJhY2tDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgcFU3R5bGULBmZzQm9sZAAFQ29sb3IHBmNs
+TmF2eQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVBcmlhbART
+aXplAggFU3R5bGULBmZzQm9sZAAFQ29sb3IHBmNsTmF2eQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAFQ29sb3IH
+BmNsTmF2eQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNl
+bnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQH
+CHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0
+aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVy
+bnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANClRoZSBl
+bml0cmUgcXVlc3Rpb25haXJyZSB3aWxsIHRha2UgYWJvdXQgMTAgbWludXRlcyBvZiB5b3VyIGxp
+ZmUuIA0KOCAxIDEgMCAwIDANClBsZWFzZSBkbyBub3QgcnVzaCB0aHJvdWdoIHRoZSBxdWVzdGlv
+bmFpcnJlDQoxMSAxIC0xIDEgMCAwDQouDQoxMCAxIDEgMCAwIDANCihpZiB5b3UgdHJ5IHRvIHJ1
+c2gsIHRoZSBzb2Z0d2FyZSB3aWxsIGF1dG9tYXRpY2FsbHkgZGV0ZWN0IGl0IGFuZCB3aWxsIHNs
+b3cgZG93biB0aGUgcmF0ZSBhdCB3aGljaCB0aGUgcXVlc3Rpb25haXJyZSBwcm9ncmVzc2VzKQ0K
+OSAxIC0xIDEgMCAwDQogDQo2IDEgMSAwIDAgMA0KDQo3IDEgMSAwIDAgMA0KDQo1IDEgMSAwIDAg
+MA0KDQozIDIgMSAwIDAgMA0KDQoNCjQgMiAxIDAgMCAwDQoNCg0KMyAzIDEgMCAwIDANCiANCg0K
+DQo=
+</rvf></Component><Component type="2" id="text3" zorder="1" filename="text189226077" width="831" height="150" html="" left="0" top="81" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#000000" style="font-size:16px;"&gt;&lt;B&gt;The aim of this test is to judge your ability to imagine. &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" style="font-size:16px;"&gt;&lt;B&gt;The questions in this test will ask you to form mental pictures of something in your mind. You will then be asked to rate how clearly or vividly you were able to form that mental image. &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" style="font-size:16px;"&gt;&lt;B&gt;You can assign this rating on a 5 point scale, shown below. &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#000000" class="ws12"&gt;&lt;B&gt;The aim of this test is to judge your ability to imagine. &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" class="ws12"&gt;&lt;B&gt;The questions in this test will ask you to form mental pictures of something in your mind. You will then be asked to rate how clearly or vividly you were able to form that mental image. &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" class="ws12"&gt;&lt;B&gt;You can assign this rating on a 5 point scale, shown below. &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsQmxh
+Y2sAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgNCAxIDAgMCAwDQpUaGUgYWltIG9m
+IHRoaXMgdGVzdCBpcyB0byBqdWRnZSB5b3VyIGFiaWxpdHkgdG8gaW1hZ2luZS4gDQpUaGUgcXVl
+c3Rpb25zIGluIHRoaXMgdGVzdCB3aWxsIGFzayB5b3UgdG8gZm9ybSBtZW50YWwgcGljdHVyZXMg
+b2Ygc29tZXRoaW5nIGluIHlvdXIgbWluZC4gWW91IHdpbGwgdGhlbiBiZSBhc2tlZCB0byByYXRl
+IGhvdyBjbGVhcmx5IG9yIHZpdmlkbHkgeW91IHdlcmUgYWJsZSB0byBmb3JtIHRoYXQgbWVudGFs
+IGltYWdlLiANCg0KWW91IGNhbiBhc3NpZ24gdGhpcyByYXRpbmcgb24gYSA1IHBvaW50IHNjYWxl
+LCBzaG93biBiZWxvdy4gDQo=
+</rvf></Component><Component type="3" id="image1" zorder="2" filename="image189403684" width="830" height="68" originwidth="911" originheight="75" src="C:\Users\adnan\Documents\Web Page Maker\Import\paste7.jpg" previewfile="C:\Users\adnan\Documents\Web Page Maker\Import\paste7.jpg" left="0" top="179" thumbname="thumb190654515" resamplename="img190654515" exportfilename="images/paste7.jpg"/><Component type="2" id="text4" zorder="3" filename="text189460546" width="828" height="90" html="" left="0" top="249" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#000000" style="font-size:16px;"&gt;&lt;B&gt;So for example, if the you are able to form the mental image, such that its reasonably clear and vidid, then drag the slider to the postion shown below&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#000000" class="ws12"&gt;&lt;B&gt;So for example, if the you are able to form the mental image, such that its reasonably clear and vidid, then drag the slider to the postion shown below&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsQmxh
+Y2sAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQpTbyBmb3IgZXhh
+bXBsZSwgaWYgdGhlIHlvdSBhcmUgYWJsZSB0byBmb3JtIHRoZSBtZW50YWwgaW1hZ2UsIHN1Y2gg
+dGhhdCBpdHMgcmVhc29uYWJseSBjbGVhciBhbmQgdmlkaWQsIHRoZW4gZHJhZyB0aGUgc2xpZGVy
+IHRvIHRoZSBwb3N0aW9uIHNob3duIGJlbG93DQo=
+</rvf></Component><Component type="3" id="image2" zorder="4" filename="image189615393" width="815" height="60" originwidth="894" originheight="66" src="C:\Users\adnan\Documents\Web Page Maker\Import\paste8.jpg" previewfile="C:\Users\adnan\Documents\Web Page Maker\Import\paste8.jpg" left="0" top="290" thumbname="thumb190654515" resamplename="img190654531" exportfilename="images/paste8.jpg"/><Component type="2" id="text2" zorder="5" filename="text189742378" width="353" height="57" html="" left="180" top="357" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#000000" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;B&gt;We will now begin the questionairre&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000080" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;B&gt;Please imagine with your eyes OPEN &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;B&gt;Press Next to begin&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#000000" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;B&gt;We will now begin the questionairre&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000080" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;B&gt;Please imagine with your eyes OPEN &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;B&gt;Press Next to begin&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp9AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsQmxh
+Y2sJQmFja0NvbG9yBwdjbFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBUFyaWFsBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xOYXZ5CUJhY2tD
+b2xvcgcHY2xXaGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVm
+dCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQH
+CXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGln
+bm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFi
+bGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2Fu
+dFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDAN
+CldlIHdpbGwgbm93IGJlZ2luIHRoZSBxdWVzdGlvbmFpcnJlDQo0IDEgMSAwIDAgMA0KUGxlYXNl
+IGltYWdpbmUgd2l0aCB5b3VyIGV5ZXMgT1BFTiANCjMgMSAxIDAgMCAwDQpQcmVzcyBOZXh0IHRv
+IGJlZ2luDQo=
+</rvf></Component><Component type="3" id="image3" zorder="6" filename="image190276868" width="76" height="65" originwidth="511" originheight="440" src="C:\Users\adnan\Documents\Web Page Maker\Import\paste9.jpg" previewfile="C:\Users\adnan\Documents\Web Page Maker\Import\paste9.jpg" left="501" top="353" thumbname="thumb190654531" resamplename="img190654531" exportfilename="images/paste9.jpg" selected="1"/></body></page></site>

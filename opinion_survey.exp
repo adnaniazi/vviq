@@ -1,0 +1,169 @@
+<instruct>
+/ inputdevice = mouse
+/ lastlabel = "Start"
+/ windowsize = (66%, 66%)
+</instruct>
+
+
+<htmlpage second>
+/ file = "second.html"
+</htmlpage>
+*********************************************************************************************************************************************************************************
+*********************************************************************************************************************************************************************************
+*********************************************************************************************************************************************************************************
+<radiobuttons sex>
+/ caption = "Sex"
+/ options = ("Female", "Male")
+</radiobuttons>
+*********************************************************************************************************************************************************************************
+<textbox age>
+/ caption = "What is your age"
+/ mask = decimal
+/ range = (7, 110)
+</textbox>
+
+**********************************************************************************************************************************************************************************
+<dropdown nationality>
+/ caption = "Country/Region of Primary Citizenship"
+/ options = ("U.S.A.", "Afghanistan", "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antarctica", "Antigua And Barbuda", 
+"Argentina", "Armenia", "Aruba", "Australia", "Austria", "Azerbaijan", "Bahamas, The", "Bahrain", "Bangladesh", "Barbados", "Belarus", 
+"Belgium", "Belize", "Benin", "Bermuda", "Bhutan", "Bolivia", "Bosnia and Herzegovina", "Botswana", "Bouvet Island", "Brazil", "British Indian Ocean Territory", 
+"Brunei", "Bulgaria", "Burkina Faso", "Burundi", "Cambodia", "Cameroon", "Canada", "Cape Verde", "Cayman Islands", "Central African Republic", 
+"Chad", "Chile", "China", "Christmas Island", "Cocos (Keeling) Islands", "Colombia", "Comoros", "Congo", "Congo, Democratic Republic of the", 
+"Cook Islands", "Costa Rica", "Cote D'Ivoire (Ivory Coast)", "Croatia (Hrvatska)", "Cuba", "Cyprus", "Czech Republic", "Denmark", "Djibouti", 
+"Dominica", "Dominican Republic", "East Timor", "Ecuador", "Egypt", "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Ethiopia", "Falkland Islands (Islas Malvinas)", 
+"Faroe Islands", "Fiji Islands", "Finland", "France", "French Guiana", "French Polynesia", "French Southern Territories", "Gabon", "Gambia, The", 
+"Georgia", "Germany", "Ghana", "Gibraltar", "Greece", "Greenland", "Grenada", "Guadeloupe", "Guam", "Guatemala", "Guinea", "Guinea-Bissau", 
+"Guyana", "Haiti", "Heard and McDonald Islands", "Honduras", "Hong Kong S.A.R.", "Hungary", "Iceland", "India", "Indonesia", "Iran", "Iraq", 
+"Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan", "Kazakhstan", "Kenya", "Kiribati", "Korea", "Korea, North", "Kuwait", "Kyrgyzstan", 
+"Laos", "Latvia", "Lebanon", "Lesotho", "Liberia", "Libya", "Liechtenstein", "Lithuania", "Luxembourg", "Macau S.A.R.", "Macedonia, Former Yugoslav Republic of", 
+"Madagascar", "Malawi", "Malaysia", "Maldives", "Mali", "Malta", "Marshall Islands", "Martinique", "Mauritania", "Mauritius", "Mayotte", 
+"Mexico", "Micronesia", "Moldova", "Monaco", "Mongolia", "Montserrat", "Morocco", "Mozambique", "Myanmar", "Namibia", "Nauru", 
+"Nepal", "Netherlands Antilles", "Netherlands, The", "New Caledonia", "New Zealand", "Nicaragua", "Niger", "Nigeria", "Niue", "Norfolk Island", 
+"Northern Mariana Islands", "Norway", "Oman", "Pakistan", "Palau", "Panama", "Papua New Guinea", "Paraguay", "Peru", "Philippines", 
+"Pitcairn Island", "Poland", "Portugal", "Puerto Rico", "Qatar", "Reunion", "Romania", "Russia", "Rwanda", "Saint Helena", "Saint Kitts And Nevis", 
+"Saint Lucia", "Saint Pierre and Miquelon", "Saint Vincent And The Grenadines", "Samoa", "San Marino", "Sao Tome and Principe", 
+"Saudi Arabia", "Senegal", "Seychelles", "Sierra Leone", "Singapore", "Slovakia", "Slovenia", "Solomon Islands", "Somalia", "South Africa", 
+"South Georgia And The South Sandwich Islands", "Spain", "Sri Lanka", "Sudan", "Suriname", "Svalbard And Jan Mayen Islands", "Swaziland", 
+"Sweden", "Switzerland", "Syria", "Taiwan", "Tajikistan", "Tanzania", "Thailand", "Togo", "Tokelau", "Tonga", "Trinidad And Tobago", 
+"Tunisia", "Turkey", "Turkmenistan", "Turks And Caicos Islands", "Tuvalu", "Uganda", "Ukraine", "United Arab Emirates", "United Kingdom", 
+"U.S.A.", "United States Minor Outlying Islands", "Uruguay", "Uzbekistan", "Vanuatu", "Vatican City State (Holy See)", "Venezuela", 
+"Vietnam", "Virgin Islands (British)", "Virgin Islands (US)", "Wallis And Futuna Islands", "Yemen", "Yugoslavia", "Zambia", "Zimbabwe")
+/ optionvalues = (
+	"US", "AF", "AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "AR", "AM", "AW", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", 
+	"BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BV", "BR", "IO", "BN", "BG", "BF", "BI", "KH", "CM", "CA", "CV", "KY", "CF", "TD", "CL", 
+	"CN", "CX", "CC", "CO", "KM", "CG", "CD", "CK", "CR", "CI", "HR", "CU", "CY", "CZ", "DK", "DJ", "DM", "DO", "TP", "EC", "EG", "SV",
+	 "GQ", "ER", "EE", "ET", "FK", "FO", "FJ", "FI", "FR", "GF", "PF", "TF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GL", "GD", "GP", 
+	"GU", "GT", "GN", "GW", "GY", "HT", "HM", "HN", "HK", "HU", "IS", "IN", "ID", "IR", "IQ", "IE", "IL", "IT", "JM", "JP", "JO", "KZ", "KE", 
+	"KI", "KR", "KP", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MY", "MV", "ML", "MT", "MH", 
+	"MQ", "MR", "MU", "YT", "MX", "FM", "MD", "MC", "MN", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "AN", "NL", "NC", "NZ", "NI", "NE", 
+	"NG", "NU", "NF", "MP", "NO", "OM", "PK", "PW", "PA", "PG", "PY", "PE", "PH", "PN", "PL", "PT", "PR", "QA", "RE", "RO", "RU", "RW", "SH",
+	"KN", "LC", "PM", "VC", "WS", "SM", "ST", "SA", "SN", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "GS", "ES", "LK", "SD", "SR", "SJ", 
+	"SZ", "SE", "CH", "SY", "TW", "TJ", "TZ", "TH", "TG", "TK", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "UA", "AE", "UK", "US", "UM",
+	"UY", "UZ", "VU", "VA", "VE", "VN", "VG", "VI", "WF", "YE", "YU", "ZM", "ZW")
+</dropdown>
+
+**********************************************************************************************************************************************************************************
+<radiobuttons instructions>
+/ caption = "Were the instructions clear to you"
+/ options = ("Yes", "No")
+</radiobuttons>
+**********************************************************************************************************************************************************************************
+<slider interesting>
+/ caption = "How interesting or boring was this experiment for you? (move the slider)"
+/ labels = ("very~ninteresting", "moderatly~ninteresting ", "slightly~ninteresting ", "no~nopinion", "slightly~nboring ", "moderalty~nboring ", "very~nboring")
+/ range = (1, 7)
+/ slidersize = (60%, 5%)
+/ showtooltips = false
+</slider>
+**********************************************************************************************************************************************************************************
+<slider vividness>
+/ caption = "How vividly and clearly were you able imagine the various alpahbets during the experiment? (move the slider)"
+/ labels = ("Perfectly clear and perfectly vivid~nas if I was seeing the alphabets ", "Clear and~nreasonably vivid", "Moderately clear~nand vivid", "Vague~nand dim", "No image~nat all")
+/ range = (1, 5)
+/ slidersize = (60%, 5%)
+/ showtooltips = false
+</slider>
+**********************************************************************************************************************************************************************************
+
+<radiobuttons eyesight>
+/ caption = "Do you normally use glasses or contact lenses?"
+/ options = ("Yes", "No")
+</radiobuttons>
+**********************************************************************************************************************************************************************************
+<textbox deviation>
+/ caption = "If your answer to the previous question was 'Yes', then how much is the deviation in your left and right eye ? If you don't remember it exactly just wirte a rough estimate. "
+/ required = false
+/ multiline = true
+/ textboxsize=(85,5)
+</textbox>
+**********************************************************************************************************************************************************************************
+<radiobuttons headache>
+/ caption = "Are you feeling any headache after the experiment?"
+/ options = ("Yes", "No")
+</radiobuttons>
+**********************************************************************************************************************************************************************************
+<radiobuttons contactlenses>
+/ caption = "Have you used contact lenses during the experiment?"
+/ options = ("Yes", "No")
+</radiobuttons>
+**********************************************************************************************************************************************************************************
+<radiobuttons glasses>
+/ caption = "Have you used glasses during the experiment?"
+/ options = ("Yes", "No")
+</radiobuttons>
+**********************************************************************************************************************************************************************************
+
+<radiobuttons video>
+/ caption = "Would you like to receive an MRI video of your brain and your face in 3D, as a souvenir for your participation in the experiment?"
+/ options = ("Yes", "No")
+</radiobuttons>
+**********************************************************************************************************************************************************************************
+<textbox videoemail>
+/ caption = "If your answer to the previous question was 'Yes', then please write down your GMAIL or YAHOO or MSN email address. We will email you the video on that address."
+/ required = false
+/ multiline = true
+/ textboxsize=(85,5)
+</textbox>
+**********************************************************************************************************************************************************************************
+<textbox comments>
+/ caption = "If you have any comments or questions, please write them down."
+/ required = false
+/ multiline = true
+/ textboxsize=(85,5)
+</textbox>
+**********************************************************************************************************************************************************************************
+<checkboxes alphabets>
+/ caption = "Which of the following alphabets did you find difficult to imagine? (you can check multiple boxes, if you want to)."
+/ options = ("D","O", "N", "E", "R","S","I", "T","U")
+</checkboxes>
+**********************************************************************************************************************************************************************************
+**********************************************************************************************************************************************************************************
+
+<surveypage demographics1>
+/ caption = "Demographic Questionionnaire (Page 1 of 3)"
+/ fontstyle = ("Verdana", -16, true, false, false, false, 5, 0)
+/ questions = [1=age; 2=sex;  3=nationality; 4=interesting; 5=eyesight; 6=deviation] 
+</surveypage>
+
+
+<surveypage demographics2>
+/ caption = "Demographic Questionionnaire (Page 2 of 3)"
+/ fontstyle = ("Verdana", -16, true, false, false, false, 5, 0)
+/ questions = [1=contactlenses; 2= glasses; 3=headache; 4=alphabets] 
+</surveypage>
+
+
+<surveypage demographics3>
+/ caption = "Demographic Questionionnaire (Page 3 of 3)"
+/ fontstyle = ("Verdana", -16, true, false, false, false, 5, 0)
+/ questions = [ 1=video; 2= videoemail; 3=comments] 
+</surveypage>
+
+<survey opinion_survey>
+/ pages = [ 1=demographics1; 2=demographics2;3=demographics3]
+/ responsefontstyle = ("Verdana", -12, false, false, false, false, 5, 0)
+/ itemfontstyle = ("Verdana", -13, false, false, false, false, 5, 0)
+/ itemspacing = 2%
+/ showpagenumbers = false
+</survey>
